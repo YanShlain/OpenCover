@@ -1,1 +1,1 @@
-[![Coverage Status](https://coveralls.io/repos/github/YanShlain/OpeCover/badge.svg?branch=master)](https://coveralls.io/github/YanShlain/OpeCover?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/YanShlain/OpenCover/badge.svg?branch=master)](https://coveralls.io/github/YanShlain/OpenCover?branch=master)
